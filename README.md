@@ -27,9 +27,10 @@ A series of GAM models were constructed:
 - Conclusion: **Education and ethnicity are more informative when modeled independently.**
 
 
-## Code & Data Access
+## Code, Data Access, & Presentation
 - Code: https://github.com/eDoggo3779/Water_Insecurity  
 - NHGIS Data: https://www.nhgis.org/
+- Oral Presentation: https://www.youtube.com/watch?v=AgllHcr-gtA
 
 ## Acknowledgments
 Thanks to The Coding School, Kayvan Jalali, and Dr. Tara Flaugher for technical and research guidance.
